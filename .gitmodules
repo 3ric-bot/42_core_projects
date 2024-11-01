@@ -1,21 +1,21 @@
 [submodule "libft"]
 	path = libft
-	url = git@github.com:mcombeau/libft.git
+	url = git@github.com:3ric-bot/libft.git
 	branch = main
 	update = rebase
 [submodule "born2beroot"]
 	path = born2beroot
-	url = git@github.com:mcombeau/Born2beroot.git
+	url = git@github.com:3ric-bot/Born2beroot.git
 	branch = main
 	update = rebase
 [submodule "ft_printf"]
 	path = ft_printf
-	url = git@github.com:mcombeau/ft_printf.git
+	url = git@github.com:3ric-bot/ft_printf.git
 	branch = main
 	update = rebase
 [submodule "get_next_line"]
 	path = get_next_line
-	url = git@github.com:mcombeau/get_next_line.git
+	url = git@github.com:3ric-bot/get_next_line.git
 	branch = main
 	update = rebase
 [submodule "fractol"]
