@@ -4,7 +4,7 @@ My 42 school curriculum projects.
 
 |     | Project                                                          | Language                                                                                                                  | Grade                                                                                              | Description                                                                     |
 | --- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 0   | [libft](https://github.com/3ric-bot/libft)                       | ![libft top language](https://img.shields.io/github/languages/top/3ric-bot/libft?style=flat-square)                       | ![libft grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)            | Create a library of basic C functions.                                          |
+| 0   | [libft](https://github.com/3ric-bot/Libft)                       | ![libft top language](https://img.shields.io/github/languages/top/3ric-bot/Libft?style=flat-square)                       | ![libft grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)            | Create a library of basic C functions.                                          |
 | 1   | [born2beroot](https://github.com/3ric-bot/Born2beroot)           | ![Born2beroot top language](https://img.shields.io/github/languages/top/3ric-bot/Born2beroot?style=flat-square)           | ![Born2beroot grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)      | Create a virtual machine to host a Debian server.                               |
 | 1   | [ft_printf](https://github.com/3ric-bot/ft_printf)               | ![ft_printf top language](https://img.shields.io/github/languages/top/3ric-bot/ft_printf?style=flat-square)               | ![ft_printf grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)        | Recode the standard C library function, printf.                                 |
 | 1   | [GNL](https://github.com/3ric-bot/get_next_line)                 | ![get_next_line top language](https://img.shields.io/github/languages/top/3ric-bot/get_next_line?style=flat-square)       | ![get_next_line grade](https://img.shields.io/badge/:-125%25-success?style=flat-square&logo=42)    | Read a single line from a file descriptor, can be used in a loop.               |
@@ -54,4 +54,4 @@ git rm -f <submodule-path>
 
 ---
 
-Made by 3ric-bot: 3ric-bot@student.codam.nl | LinkedIn: [eoehlers]() | Website: []()
+Made by 3ric-bot: eoelhers@student.codam.nl | LinkedIn: [eoehlers]() | Website: []()
